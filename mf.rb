@@ -3,7 +3,7 @@ require 'json'
 require 'nokogiri'
 
 get '/' do
-  vigilance.to_json
+	vigilance.to_json
 end
 
 def vigilance
@@ -33,7 +33,6 @@ def vigilance
 		if (department =~ /\d{2}/)
 			department_name.gsub!(/:/,'')
 			region_name = regions_hash[departements_hash[department]["region_id"]]["name"]
-			#vigilance_array.push({:region => region_name, :department => department_name, :vigilance => vigilance }) if department =~ /\d{2}/
 			vigilance_hash[department_name] = {:region_name => region_name, :vigilance => vigilance}
 		end
 	end
