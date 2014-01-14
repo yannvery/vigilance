@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<departements>
+    <departement>
+        <id_departement>1</id_departement>
+        <id_region>22</id_region>
+        <code>01</code>
+        <name_departement>Ain</name_departement>
+        <name_departement_uppercase>AIN</name_departement_uppercase>
+        <departement_slug>ain</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>2</id_departement>
+        <id_region>19</id_region>
+        <code>02</code>
+        <name_departement>Aisne</name_departement>
+        <name_departement_uppercase>AISNE</name_departement_uppercase>
+        <departement_slug>aisne</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>3</id_departement>
+        <id_region>2</id_region>
+        <code>03</code>
+        <name_departement>Allier</name_departement>
+        <name_departement_uppercase>ALLIER</name_departement_uppercase>
+        <departement_slug>allier</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>4</id_departement>
+        <id_region>21</id_region>
+        <code>04</code>
+        <name_departement>Alpes-de-Haute-Provence</name_departement>
+        <name_departement_uppercase></name_departement_uppercase>
+        <departement_slug></departement_slug>
+    </departement>
+    <departement>
+        <id_departement>5</id_departement>
+        <id_region>21</id_region>
+        <code>05</code>
+        <name_departement>Alpes (Hautes)</name_departement>
+        <name_departement_uppercase>ALPES (HAUTES)</name_departement_uppercase>
+        <departement_slug>alpes-hautes</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>6</id_departement>
+        <id_region>21</id_region>
+        <code>06</code>
+        <name_departement>Alpes Maritimes</name_departement>
+        <name_departement_uppercase>ALPES MARITIMES</name_departement_uppercase>
+        <departement_slug>alpes-maritimes</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>7</id_departement>
+        <id_region>22</id_region>
+        <code>07</code>
+        <name_departement>Ardéche</name_departement>
+        <name_departement_uppercase>ARDÉCHE</name_departement_uppercase>
+        <departement_slug>ardeche</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>8</id_departement>
+        <id_region>6</id_region>
+        <code>08</code>
+        <name_departement>Ardennes</name_departement>
+        <name_departement_uppercase>ARDENNES</name_departement_uppercase>
+        <departement_slug>ardennes</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>9</id_departement>
+        <id_region>14</id_region>
+        <code>09</code>
+        <name_departement> Ariége</name_departement>
+        <name_departement_uppercase> ARIÉGE</name_departement_uppercase>
+        <departement_slug>-ariege</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>10</id_departement>
+        <id_region>6</id_region>
+        <code>10</code>
+        <name_departement>Aube</name_departement>
+        <name_departement_uppercase>AUBE</name_departement_uppercase>
+        <departement_slug>aube</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>11</id_departement>
+        <id_region>11</id_region>
+        <code>11</code>
+        <name_departement>Aude</name_departement>
+        <name_departement_uppercase>AUDE</name_departement_uppercase>
+        <departement_slug>aude</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>12</id_departement>
+        <id_region>14</id_region>
+        <code>12</code>
+        <name_departement>Aveyron</name_departement>
+        <name_departement_uppercase>AVEYRON</name_departement_uppercase>
+        <departement_slug>aveyron</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>13</id_departement>
+        <id_region>21</id_region>
+        <code>13</code>
+        <name_departement>Bouches du Rhône</name_departement>
+        <name_departement_uppercase>BOUCHES DU RHÔNE</name_departement_uppercase>
+        <departement_slug>bouches-du-rhone</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>14</id_departement>
+        <id_region>24</id_region>
+        <code>14</code>
+        <name_departement>Calvados</name_departement>
+        <name_departement_uppercase>CALVADOS</name_departement_uppercase>
+        <departement_slug>calvados</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>15</id_departement>
+        <id_region>2</id_region>
+        <code>15</code>
+        <name_departement>Cantal</name_departement>
+        <name_departement_uppercase>CANTAL</name_departement_uppercase>
+        <departement_slug>cantal</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>16</id_departement>
+        <id_region>20</id_region>
+        <code>16</code>
+        <name_departement>Charente</name_departement>
+        <name_departement_uppercase>CHARENTE</name_departement_uppercase>
+        <departement_slug>charente</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>17</id_departement>
+        <id_region>20</id_region>
+        <code>17</code>
+        <name_departement>Charente Maritime</name_departement>
+        <name_departement_uppercase>CHARENTE MARITIME</name_departement_uppercase>
+        <departement_slug>charente-maritime</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>18</id_departement>
+        <id_region>5</id_region>
+        <code>18</code>
+        <name_departement>Cher</name_departement>
+        <name_departement_uppercase>CHER</name_departement_uppercase>
+        <departement_slug>cher</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>19</id_departement>
+        <id_region>12</id_region>
+        <code>19</code>
+        <name_departement>Corréze</name_departement>
+        <name_departement_uppercase>CORRÉZE</name_departement_uppercase>
+        <departement_slug>correze</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>21</id_departement>
+        <id_region>12</id_region>
+        <code>23</code>
+        <name_departement>Creuse </name_departement>
+        <name_departement_uppercase>CREUSE </name_departement_uppercase>
+        <departement_slug>creuse-</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>22</id_departement>
+        <id_region>1</id_region>
+        <code>24</code>
+        <name_departement>Dordogne</name_departement>
+        <name_departement_uppercase>DORDOGNE</name_departement_uppercase>
+        <departement_slug>dordogne</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>23</id_departement>
+        <id_region>9</id_region>
+        <code>25</code>
+        <name_departement>Doubs</name_departement>
+        <name_departement_uppercase>DOUBS</name_departement_uppercase>
+        <departement_slug>doubs</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>24</id_departement>
+        <id_region>22</id_region>
+        <code>26</code>
+        <name_departement>Drôme</name_departement>
+        <name_departement_uppercase>DRÔME</name_departement_uppercase>
+        <departement_slug>drome</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>25</id_departement>
+        <id_region>17</id_region>
+        <code>27</code>
+        <name_departement>Eure</name_departement>
+        <name_departement_uppercase>EURE</name_departement_uppercase>
+        <departement_slug>eure</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>26</id_departement>
+        <id_region>5</id_region>
+        <code>28</code>
+        <name_departement>Eure et Loir</name_departement>
+        <name_departement_uppercase>EURE ET LOIR</name_departement_uppercase>
+        <departement_slug>eure-et-loir</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>27</id_departement>
+        <id_region>4</id_region>
+        <code>29</code>
+        <name_departement>Finistére</name_departement>
+        <name_departement_uppercase>FINISTÉRE</name_departement_uppercase>
+        <departement_slug>finistere</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>28</id_departement>
+        <id_region>11</id_region>
+        <code>30</code>
+        <name_departement>Gard</name_departement>
+        <name_departement_uppercase>GARD</name_departement_uppercase>
+        <departement_slug>gard</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>29</id_departement>
+        <id_region>14</id_region>
+        <code>31</code>
+        <name_departement>Garonne (Haute)</name_departement>
+        <name_departement_uppercase>GARONNE (HAUTE)</name_departement_uppercase>
+        <departement_slug>garonne-haute</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>30</id_departement>
+        <id_region>14</id_region>
+        <code>32</code>
+        <name_departement>Gers</name_departement>
+        <name_departement_uppercase>GERS</name_departement_uppercase>
+        <departement_slug>gers</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>31</id_departement>
+        <id_region>1</id_region>
+        <code>33</code>
+        <name_departement>Gironde</name_departement>
+        <name_departement_uppercase>GIRONDE</name_departement_uppercase>
+        <departement_slug>gironde</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>32</id_departement>
+        <id_region>11</id_region>
+        <code>34</code>
+        <name_departement>Hérault</name_departement>
+        <name_departement_uppercase>HÉRAULT</name_departement_uppercase>
+        <departement_slug>herault</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>33</id_departement>
+        <id_region>4</id_region>
+        <code>35</code>
+        <name_departement>Ile et Vilaine</name_departement>
+        <name_departement_uppercase>ILE ET VILAINE</name_departement_uppercase>
+        <departement_slug>ile-et-vilaine</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>34</id_departement>
+        <id_region>5</id_region>
+        <code>36</code>
+        <name_departement>Indre</name_departement>
+        <name_departement_uppercase>INDRE</name_departement_uppercase>
+        <departement_slug>indre</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>35</id_departement>
+        <id_region>5</id_region>
+        <code>37</code>
+        <name_departement>Indre et Loire</name_departement>
+        <name_departement_uppercase>INDRE ET LOIRE</name_departement_uppercase>
+        <departement_slug>indre-et-loire</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>36</id_departement>
+        <id_region>22</id_region>
+        <code>38</code>
+        <name_departement>Isére</name_departement>
+        <name_departement_uppercase>ISÉRE</name_departement_uppercase>
+        <departement_slug>isere</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>37</id_departement>
+        <id_region>9</id_region>
+        <code>39</code>
+        <name_departement>Jura</name_departement>
+        <name_departement_uppercase>JURA</name_departement_uppercase>
+        <departement_slug>jura</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>38</id_departement>
+        <id_region>1</id_region>
+        <code>40</code>
+        <name_departement>Landes</name_departement>
+        <name_departement_uppercase>LANDES</name_departement_uppercase>
+        <departement_slug>landes</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>39</id_departement>
+        <id_region>5</id_region>
+        <code>41</code>
+        <name_departement>Loir et Cher</name_departement>
+        <name_departement_uppercase>LOIR ET CHER</name_departement_uppercase>
+        <departement_slug>loir-et-cher</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>40</id_departement>
+        <id_region>22</id_region>
+        <code>42</code>
+        <name_departement>Loire</name_departement>
+        <name_departement_uppercase>LOIRE</name_departement_uppercase>
+        <departement_slug>loire</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>41</id_departement>
+        <id_region>2</id_region>
+        <code>43</code>
+        <name_departement>Loire (Haute)</name_departement>
+        <name_departement_uppercase>LOIRE (HAUTE)</name_departement_uppercase>
+        <departement_slug>loire-haute</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>42</id_departement>
+        <id_region>18</id_region>
+        <code>44</code>
+        <name_departement>Loire Atlantique</name_departement>
+        <name_departement_uppercase>LOIRE ATLANTIQUE</name_departement_uppercase>
+        <departement_slug>loire-atlantique</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>43</id_departement>
+        <id_region>5</id_region>
+        <code>45</code>
+        <name_departement>Loiret</name_departement>
+        <name_departement_uppercase>LOIRET</name_departement_uppercase>
+        <departement_slug>loiret</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>44</id_departement>
+        <id_region>14</id_region>
+        <code>46</code>
+        <name_departement>Lot</name_departement>
+        <name_departement_uppercase>LOT</name_departement_uppercase>
+        <departement_slug>lot</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>45</id_departement>
+        <id_region>1</id_region>
+        <code>47</code>
+        <name_departement>Lot et Garonne</name_departement>
+        <name_departement_uppercase>LOT ET GARONNE</name_departement_uppercase>
+        <departement_slug>lot-et-garonne</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>46</id_departement>
+        <id_region>11</id_region>
+        <code>48</code>
+        <name_departement>Lozére</name_departement>
+        <name_departement_uppercase>LOZÉRE</name_departement_uppercase>
+        <departement_slug>lozere</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>47</id_departement>
+        <id_region>18</id_region>
+        <code>49</code>
+        <name_departement>Maine et Loire</name_departement>
+        <name_departement_uppercase>MAINE ET LOIRE</name_departement_uppercase>
+        <departement_slug>maine-et-loire</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>48</id_departement>
+        <id_region>24</id_region>
+        <code>50</code>
+        <name_departement>Manche</name_departement>
+        <name_departement_uppercase>MANCHE</name_departement_uppercase>
+        <departement_slug>manche</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>49</id_departement>
+        <id_region>6</id_region>
+        <code>51</code>
+        <name_departement>Marne</name_departement>
+        <name_departement_uppercase>MARNE</name_departement_uppercase>
+        <departement_slug>marne</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>50</id_departement>
+        <id_region>6</id_region>
+        <code>52</code>
+        <name_departement>Marne (Haute)</name_departement>
+        <name_departement_uppercase>MARNE (HAUTE)</name_departement_uppercase>
+        <departement_slug>marne-haute</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>51</id_departement>
+        <id_region>18</id_region>
+        <code>53</code>
+        <name_departement>Mayenne</name_departement>
+        <name_departement_uppercase>MAYENNE</name_departement_uppercase>
+        <departement_slug>mayenne</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>52</id_departement>
+        <id_region>13</id_region>
+        <code>54</code>
+        <name_departement>Meurthe et Moselle</name_departement>
+        <name_departement_uppercase>MEURTHE ET MOSELLE</name_departement_uppercase>
+        <departement_slug>meurthe-et-moselle</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>53</id_departement>
+        <id_region>13</id_region>
+        <code>55</code>
+        <name_departement>Meuse</name_departement>
+        <name_departement_uppercase>MEUSE</name_departement_uppercase>
+        <departement_slug>meuse</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>54</id_departement>
+        <id_region>4</id_region>
+        <code>56</code>
+        <name_departement>Morbihan</name_departement>
+        <name_departement_uppercase>MORBIHAN</name_departement_uppercase>
+        <departement_slug>morbihan</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>55</id_departement>
+        <id_region>13</id_region>
+        <code>57</code>
+        <name_departement>Moselle</name_departement>
+        <name_departement_uppercase>MOSELLE</name_departement_uppercase>
+        <departement_slug>moselle</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>56</id_departement>
+        <id_region>3</id_region>
+        <code>58</code>
+        <name_departement>Niévre</name_departement>
+        <name_departement_uppercase>NIÉVRE</name_departement_uppercase>
+        <departement_slug>nievre</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>57</id_departement>
+        <id_region>15</id_region>
+        <code>59</code>
+        <name_departement>Nord</name_departement>
+        <name_departement_uppercase>NORD</name_departement_uppercase>
+        <departement_slug>nord</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>58</id_departement>
+        <id_region>19</id_region>
+        <code>60</code>
+        <name_departement>Oise</name_departement>
+        <name_departement_uppercase>OISE</name_departement_uppercase>
+        <departement_slug>oise</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>59</id_departement>
+        <id_region>24</id_region>
+        <code>61</code>
+        <name_departement>Orne</name_departement>
+        <name_departement_uppercase>ORNE</name_departement_uppercase>
+        <departement_slug>orne</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>60</id_departement>
+        <id_region>15</id_region>
+        <code>62</code>
+        <name_departement>Pas de Calais</name_departement>
+        <name_departement_uppercase>PAS DE CALAIS</name_departement_uppercase>
+        <departement_slug>pas-de-calais</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>61</id_departement>
+        <id_region>2</id_region>
+        <code>63</code>
+        <name_departement>Puy de Dôme</name_departement>
+        <name_departement_uppercase>PUY DE DÔME</name_departement_uppercase>
+        <departement_slug>puy-de-dome</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>62</id_departement>
+        <id_region>1</id_region>
+        <code>64</code>
+        <name_departement>Pyrénées Atlantiques</name_departement>
+        <name_departement_uppercase>PYRÉNÉES ATLANTIQUES</name_departement_uppercase>
+        <departement_slug>pyrenees-atlantiques</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>63</id_departement>
+        <id_region>14</id_region>
+        <code>65</code>
+        <name_departement>Pyrénées (Hautes)</name_departement>
+        <name_departement_uppercase>PYRÉNÉES (HAUTES)</name_departement_uppercase>
+        <departement_slug>pyrenees-hautes</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>64</id_departement>
+        <id_region>11</id_region>
+        <code>66</code>
+        <name_departement>Pyrénées Orientales</name_departement>
+        <name_departement_uppercase>PYRÉNÉES ORIENTALES</name_departement_uppercase>
+        <departement_slug>pyrenees-orientales</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>65</id_departement>
+        <id_region>23</id_region>
+        <code>67</code>
+        <name_departement>Rhin (Bas)</name_departement>
+        <name_departement_uppercase>RHIN (BAS)</name_departement_uppercase>
+        <departement_slug>rhin-bas</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>66</id_departement>
+        <id_region>23</id_region>
+        <code>68</code>
+        <name_departement>Rhin (Haut)</name_departement>
+        <name_departement_uppercase>RHIN (HAUT)</name_departement_uppercase>
+        <departement_slug>rhin-haut</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>67</id_departement>
+        <id_region>22</id_region>
+        <code>69</code>
+        <name_departement>Rhône</name_departement>
+        <name_departement_uppercase>RHÔNE</name_departement_uppercase>
+        <departement_slug>rhone</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>68</id_departement>
+        <id_region>9</id_region>
+        <code>70</code>
+        <name_departement>Saône (Haute)</name_departement>
+        <name_departement_uppercase>SAÔNE (HAUTE)</name_departement_uppercase>
+        <departement_slug>saone-haute</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>69</id_departement>
+        <id_region>3</id_region>
+        <code>71</code>
+        <name_departement>Saône et Loire</name_departement>
+        <name_departement_uppercase>SAÔNE ET LOIRE</name_departement_uppercase>
+        <departement_slug>saone-et-loire</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>70</id_departement>
+        <id_region>18</id_region>
+        <code>72</code>
+        <name_departement>Sarthe</name_departement>
+        <name_departement_uppercase>SARTHE</name_departement_uppercase>
+        <departement_slug>sarthe</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>71</id_departement>
+        <id_region>22</id_region>
+        <code>73</code>
+        <name_departement>Savoie</name_departement>
+        <name_departement_uppercase>SAVOIE</name_departement_uppercase>
+        <departement_slug>savoie</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>72</id_departement>
+        <id_region>22</id_region>
+        <code>74</code>
+        <name_departement>Savoie (Haute)</name_departement>
+        <name_departement_uppercase>SAVOIE (HAUTE)</name_departement_uppercase>
+        <departement_slug>savoie-haute</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>73</id_departement>
+        <id_region>10</id_region>
+        <code>75</code>
+        <name_departement>Paris</name_departement>
+        <name_departement_uppercase>PARIS</name_departement_uppercase>
+        <departement_slug>paris</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>74</id_departement>
+        <id_region>17</id_region>
+        <code>76</code>
+        <name_departement>Seine Maritime</name_departement>
+        <name_departement_uppercase>SEINE MARITIME</name_departement_uppercase>
+        <departement_slug>seine-maritime</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>75</id_departement>
+        <id_region>10</id_region>
+        <code>77</code>
+        <name_departement>Seine et Marne</name_departement>
+        <name_departement_uppercase>SEINE ET MARNE</name_departement_uppercase>
+        <departement_slug>seine-et-marne</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>76</id_departement>
+        <id_region>10</id_region>
+        <code>78</code>
+        <name_departement>Yvelines</name_departement>
+        <name_departement_uppercase>YVELINES</name_departement_uppercase>
+        <departement_slug>yvelines</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>77</id_departement>
+        <id_region>20</id_region>
+        <code>79</code>
+        <name_departement>Sèvres (Deux)</name_departement>
+        <name_departement_uppercase>SÈVRES (DEUX)</name_departement_uppercase>
+        <departement_slug>sevres-deux</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>78</id_departement>
+        <id_region>19</id_region>
+        <code>80</code>
+        <name_departement>Somme</name_departement>
+        <name_departement_uppercase>SOMME</name_departement_uppercase>
+        <departement_slug>somme</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>79</id_departement>
+        <id_region>14</id_region>
+        <code>81</code>
+        <name_departement>Tarn</name_departement>
+        <name_departement_uppercase>TARN</name_departement_uppercase>
+        <departement_slug>tarn</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>80</id_departement>
+        <id_region>14</id_region>
+        <code>82</code>
+        <name_departement>Tarn et Garonne</name_departement>
+        <name_departement_uppercase>TARN ET GARONNE</name_departement_uppercase>
+        <departement_slug>tarn-et-garonne</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>81</id_departement>
+        <id_region>21</id_region>
+        <code>83</code>
+        <name_departement>Var</name_departement>
+        <name_departement_uppercase>VAR</name_departement_uppercase>
+        <departement_slug>var</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>82</id_departement>
+        <id_region>21</id_region>
+        <code>84</code>
+        <name_departement>Vaucluse</name_departement>
+        <name_departement_uppercase>VAUCLUSE</name_departement_uppercase>
+        <departement_slug>vaucluse</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>83</id_departement>
+        <id_region>18</id_region>
+        <code>85</code>
+        <name_departement>Vendée</name_departement>
+        <name_departement_uppercase>VENDÉE</name_departement_uppercase>
+        <departement_slug>vendee</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>84</id_departement>
+        <id_region>20</id_region>
+        <code>86</code>
+        <name_departement>Vienne</name_departement>
+        <name_departement_uppercase>VIENNE</name_departement_uppercase>
+        <departement_slug>vienne</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>85</id_departement>
+        <id_region>12</id_region>
+        <code>87</code>
+        <name_departement>Vienne (Haute)</name_departement>
+        <name_departement_uppercase>VIENNE (HAUTE)</name_departement_uppercase>
+        <departement_slug>vienne-haute</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>86</id_departement>
+        <id_region>13</id_region>
+        <code>88</code>
+        <name_departement>Vosges</name_departement>
+        <name_departement_uppercase>VOSGES</name_departement_uppercase>
+        <departement_slug>vosges</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>87</id_departement>
+        <id_region>3</id_region>
+        <code>89</code>
+        <name_departement>Yonne</name_departement>
+        <name_departement_uppercase>YONNE</name_departement_uppercase>
+        <departement_slug>yonne</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>88</id_departement>
+        <id_region>9</id_region>
+        <code>90</code>
+        <name_departement>Belfort (Territoire de)</name_departement>
+        <name_departement_uppercase>BELFORT (TERRITOIRE DE)</name_departement_uppercase>
+        <departement_slug>belfort-territoire-de</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>89</id_departement>
+        <id_region>10</id_region>
+        <code>91</code>
+        <name_departement>Essonne</name_departement>
+        <name_departement_uppercase>ESSONNE</name_departement_uppercase>
+        <departement_slug>essonne</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>90</id_departement>
+        <id_region>10</id_region>
+        <code>92</code>
+        <name_departement>Hauts de Seine</name_departement>
+        <name_departement_uppercase>HAUTS DE SEINE</name_departement_uppercase>
+        <departement_slug>hauts-de-seine</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>91</id_departement>
+        <id_region>10</id_region>
+        <code>93</code>
+        <name_departement>Seine Saint Denis</name_departement>
+        <name_departement_uppercase>SEINE SAINT DENIS</name_departement_uppercase>
+        <departement_slug>seine-saint-denis</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>92</id_departement>
+        <id_region>10</id_region>
+        <code>94</code>
+        <name_departement>Val de Marne</name_departement>
+        <name_departement_uppercase>VAL DE MARNE</name_departement_uppercase>
+        <departement_slug>val-de-marne</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>93</id_departement>
+        <id_region>8</id_region>
+        <code>976</code>
+        <name_departement>Mayotte</name_departement>
+        <name_departement_uppercase>MAYOTTE</name_departement_uppercase>
+        <departement_slug>mayotte</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>94</id_departement>
+        <id_region>8</id_region>
+        <code>971</code>
+        <name_departement>Guadeloupe</name_departement>
+        <name_departement_uppercase>GUADELOUPE</name_departement_uppercase>
+        <departement_slug>guadeloupe</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>95</id_departement>
+        <id_region>8</id_region>
+        <code>973</code>
+        <name_departement>Guyane</name_departement>
+        <name_departement_uppercase>GUYANE</name_departement_uppercase>
+        <departement_slug>guyane</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>96</id_departement>
+        <id_region>8</id_region>
+        <code>972</code>
+        <name_departement>Martinique</name_departement>
+        <name_departement_uppercase>MARTINIQUE</name_departement_uppercase>
+        <departement_slug>martinique</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>97</id_departement>
+        <id_region>8</id_region>
+        <code>974</code>
+        <name_departement>Réunion</name_departement>
+        <name_departement_uppercase>RÉUNION</name_departement_uppercase>
+        <departement_slug>reunion</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>98</id_departement>
+        <id_region>3</id_region>
+        <code>21</code>
+        <name_departement>Côte d'or</name_departement>
+        <name_departement_uppercase>CÔTE D'OR</name_departement_uppercase>
+        <departement_slug>cote-dor</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>100</id_departement>
+        <id_region>4</id_region>
+        <code>22</code>
+        <name_departement>Côtes d'armor</name_departement>
+        <name_departement_uppercase>CÔTES D'ARMOR</name_departement_uppercase>
+        <departement_slug>cotes-darmor</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>102</id_departement>
+        <id_region>7</id_region>
+        <code>2A</code>
+        <name_departement>Corse du sud</name_departement>
+        <name_departement_uppercase>CORSE DU SUD</name_departement_uppercase>
+        <departement_slug>corse-du-sud</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>103</id_departement>
+        <id_region>7</id_region>
+        <code>2B</code>
+        <name_departement>Haute corse</name_departement>
+        <name_departement_uppercase>HAUTE CORSE</name_departement_uppercase>
+        <departement_slug>haute-corse</departement_slug>
+    </departement>
+    <departement>
+        <id_departement>104</id_departement>
+        <id_region>10</id_region>
+        <code>95</code>
+        <name_departement>Val d'oise</name_departement>
+        <name_departement_uppercase>VAL D'OISE</name_departement_uppercase>
+        <departement_slug>val-doise</departement_slug>
+    </departement>
+</regions>
