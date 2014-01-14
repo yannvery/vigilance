@@ -1,0 +1,27 @@
+# Logfile created on 2014-01-15 00:06:09 +0100 by logger.rb/41954
+I, [2014-01-15T00:06:09.107361 #42900]  INFO -- : 0:  addressable (2.3.5) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/addressable-2.3.5.gemspec
+I, [2014-01-15T00:06:14.358192 #42900]  INFO -- : 0:  excon (0.31.0) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/excon-0.31.0.gemspec
+I, [2014-01-15T00:06:14.358719 #42900]  INFO -- : 0:  multi_json (1.8.4) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-15T00:06:16.053210 #42900]  INFO -- : 0:  heroku-api (0.3.16) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/heroku-api-0.3.16.gemspec
+I, [2014-01-15T00:06:16.053578 #42900]  INFO -- : 0:  launchy (2.4.2) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/launchy-2.4.2.gemspec
+I, [2014-01-15T00:06:17.439473 #42900]  INFO -- : 0:  netrc (0.7.7) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/netrc-0.7.7.gemspec
+I, [2014-01-15T00:06:17.439892 #42900]  INFO -- : 0:  mime-types (2.0) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-2.0.gemspec
+I, [2014-01-15T00:06:17.440192 #42900]  INFO -- : 0:  rest-client (1.6.7) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/rest-client-1.6.7.gemspec
+I, [2014-01-15T00:06:17.440468 #42900]  INFO -- : 0:  rubyzip (1.1.0) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/rubyzip-1.1.0.gemspec
+I, [2014-01-15T00:06:19.184404 #42900]  INFO -- : 0:  heroku (3.2.2) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/heroku-3.2.2.gemspec
+I, [2014-01-15T00:06:19.185023 #42900]  INFO -- : 0:  json (1.8.1) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-01-15T00:06:19.185455 #42900]  INFO -- : 0:  mini_portile (0.5.2) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-15T00:06:19.185770 #42900]  INFO -- : 0:  nokogiri (1.6.1) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-15T00:06:19.186049 #42900]  INFO -- : 0:  rack (1.5.2) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-01-15T00:06:19.186320 #42900]  INFO -- : 0:  rack-protection (1.5.1) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.1.gemspec
+I, [2014-01-15T00:06:19.186597 #42900]  INFO -- : 0:  tilt (1.4.1) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-01-15T00:06:19.186870 #42900]  INFO -- : 0:  sinatra (1.4.4) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-15T00:06:19.187126 #42900]  INFO -- : 0:  bundler (1.5.1) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
+I, [2014-01-15T00:08:44.717608 #43052]  INFO -- : 0:  json (1.8.1) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-01-15T00:08:44.718025 #43052]  INFO -- : 0:  mini_portile (0.5.2) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-15T00:08:44.718276 #43052]  INFO -- : 0:  nokogiri (1.6.1) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-15T00:08:44.718515 #43052]  INFO -- : 0:  rack (1.5.2) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-01-15T00:08:44.718749 #43052]  INFO -- : 0:  rack-protection (1.5.1) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.1.gemspec
+I, [2014-01-15T00:08:44.718977 #43052]  INFO -- : 0:  tilt (1.4.1) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-01-15T00:08:44.719212 #43052]  INFO -- : 0:  sinatra (1.4.4) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-15T00:08:44.719430 #43052]  INFO -- : 0:  bundler (1.5.1) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
