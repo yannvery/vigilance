@@ -8,7 +8,6 @@ Phantomjs is used to scrap the url [http://vigilance.meteofrance.com](http://vig
 Sinatra parse data and render json.
 
 ##Installation
---------------------
 
 ###Development
 
@@ -23,5 +22,5 @@ Sinatra parse data and render json.
     git push heroku master
 
 ##Resource
---------------------
+
 A good resource about create on heroku instance multi buildpack : [http://nerdery.crowdmob.com/post/33143120111/heroku-ruby-on-rails-and-phantomjs](http://nerdery.crowdmob.com/post/33143120111/heroku-ruby-on-rails-and-phantomjs)
