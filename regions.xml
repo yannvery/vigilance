@@ -37,7 +37,7 @@
     </region>
     <region>
         <id_region>6</id_region>
-        <name_region>Champagne Ardenne</name_region>
+        <name_region>Champagne-Ardenne</name_region>
         <name_region_uppercase>CHAMPAGNE ARDENNE</name_region_uppercase>
         <region_slug>champagne-ardenne</region_slug>
         <id_country>1</id_country>
@@ -58,21 +58,21 @@
     </region>
     <region>
         <id_region>9</id_region>
-        <name_region>Franche Comté</name_region>
+        <name_region>Franche-Comté</name_region>
         <name_region_uppercase>FRANCHE COMTÉ</name_region_uppercase>
         <region_slug>franche-comte</region_slug>
         <id_country>1</id_country>
     </region>
     <region>
         <id_region>10</id_region>
-        <name_region>Ile de France</name_region>
+        <name_region>Ile-de-France</name_region>
         <name_region_uppercase>ILE DE FRANCE</name_region_uppercase>
         <region_slug>ile-de-france</region_slug>
         <id_country>1</id_country>
     </region>
     <region>
         <id_region>11</id_region>
-        <name_region>Languedoc Roussillon</name_region>
+        <name_region>Languedoc-Roussillon</name_region>
         <name_region_uppercase>LANGUEDOC ROUSSILLON</name_region_uppercase>
         <region_slug>languedoc-roussillon</region_slug>
         <id_country>1</id_country>
@@ -93,23 +93,23 @@
     </region>
     <region>
         <id_region>14</id_region>
-        <name_region>Midi Pyrénées</name_region>
+        <name_region>Midi-Pyrénées</name_region>
         <name_region_uppercase>MIDI PYRÉNÉES</name_region_uppercase>
         <region_slug>midi-pyrenees</region_slug>
         <id_country>1</id_country>
     </region>
     <region>
         <id_region>15</id_region>
-        <name_region>Nord Pas de Calais</name_region>
+        <name_region>Nord-Pas-de-Calais</name_region>
         <name_region_uppercase>NORD PAS DE CALAIS</name_region_uppercase>
         <region_slug>nord-pas-de-calais</region_slug>
         <id_country>1</id_country>
     </region>
     <region>
         <id_region>17</id_region>
-        <name_region>Haute Normandie </name_region>
-        <name_region_uppercase>HAUTE NORMANDIE </name_region_uppercase>
-        <region_slug>haute-normandie-</region_slug>
+        <name_region>Haute-Normandie</name_region>
+        <name_region_uppercase>HAUTE NORMANDIE</name_region_uppercase>
+        <region_slug>haute-normandie</region_slug>
         <id_country>1</id_country>
     </region>
     <region>
@@ -128,21 +128,21 @@
     </region>
     <region>
         <id_region>20</id_region>
-        <name_region>Poitou Charentes</name_region>
+        <name_region>Poitou-Charentes</name_region>
         <name_region_uppercase>POITOU CHARENTES</name_region_uppercase>
         <region_slug>poitou-charentes</region_slug>
         <id_country>1</id_country>
     </region>
     <region>
         <id_region>21</id_region>
-        <name_region>Provence Alpes Côte d'azur</name_region>
+        <name_region>Provence-Alpes-Côte d'azur</name_region>
         <name_region_uppercase>PROVENCE ALPES CÔTE D'AZUR</name_region_uppercase>
         <region_slug>provence-alpes-cote-dazur</region_slug>
         <id_country>1</id_country>
     </region>
     <region>
         <id_region>22</id_region>
-        <name_region>Rhône Alpes</name_region>
+        <name_region>Rhône-Alpes</name_region>
         <name_region_uppercase>RHÔNE ALPES</name_region_uppercase>
         <region_slug>rhone-alpes</region_slug>
         <id_country>1</id_country>
