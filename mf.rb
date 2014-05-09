@@ -28,12 +28,14 @@ def vigilance
 	vigilance_hash = {}
 	areas.each do |area|
 		content = area["title"]
-		region_info, vigilance = content.split(/:/)
-		department, department_name = content.split(/ /)
-		if (department =~ /\d{2}/ || department =~ /\d{1}[a-zA-Z]{1}/)
-			department_name.gsub!(/:/,'')
-			region_name = regions_hash[departements_hash[department]["region_id"]]["name"]
-			vigilance_hash[department_name] = {:region_name => region_name, :vigilance => vigilance}
+		if !content.nil?
+			region_info, vigilance = content.split(/:/)
+			department, department_name = content.split(/ /)
+			if (department =~ /\d{2}/ || department =~ /\d{1}[a-zA-Z]{1}/)
+				department_name.gsub!(/:/,'')
+				region_name = regions_hash[departements_hash[department]["region_id"]]["name"]
+				vigilance_hash[department_name] = {:region_name => region_name, :vigilance => vigilance}
+			end
 		end
 	end
 	vigilance_hash
